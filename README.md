@@ -1,4 +1,4 @@
-echo "# Portflio"
+echo "# Portflio"EADME.
 
 # Getting Started with Create React App
 

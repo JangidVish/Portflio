@@ -1,0 +1,36 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav {
+    width: 100vw;
+    height: 8vh;
+    background-color: rgba(0, 0, 0, 0.741);
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ul {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    padding-right: 1rem;
+}
+
+.nav li {
+    list-style: none;
+    cursor: pointer;
+}
+
+.nav li:hover {
+    color: rgba(104, 70, 230, 0.492);
+}

@@ -1,0 +1,17 @@
+.button {
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+}
+
+button {
+    padding: 0.5rem;
+    position: relative;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(52, 9, 205);
+    background: linear-gradient(315deg, rgba(52, 9, 205, 1) 0%, rgba(91, 20, 152, 0.9482758620689655) 48%, rgba(20, 22, 152, 0.9482758620689655) 73%, rgba(9, 9, 171, 0.9626436781609196) 100%, rgba(112, 109, 212, 0.9786324786324786) 100%);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
